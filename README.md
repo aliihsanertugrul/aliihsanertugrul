@@ -16,7 +16,7 @@
 
 📫 How to reach me **ertugrulali3538@gmail.com**
 
-💬 Ask me about **Next.js, React.js, Redux, Bootstrap... or anything **
+💬 Ask me about **Next.js, React.js, Redux, Bootstrap... or anything**
 
 
 
