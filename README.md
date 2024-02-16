@@ -42,7 +42,7 @@
 <div align="center">
     <img src="https://skillicons.dev/icons?i=next.js" />
  <br/>
-    <img src="https://skillicons.dev/icons?i=react,js" />
+    <img src="https://skillicons.dev/icons?i=react,javascript" />
  <br/>
  <img src="https://skillicons.dev/icons?i=html,css,bootstrap" />
  <br/>
