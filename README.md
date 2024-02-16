@@ -42,8 +42,14 @@
 <div align="center">
     <img src="https://skillicons.dev/icons?i=react" />
  <br/>
-    <img src="https://skillicons.dev/icons?i=react,bootstrap,html,css,vscode,github,git,js,discord,postman,redux,nextjs" />
+    <img src="https://skillicons.dev/icons?i=bootstrap,html" />
  <br/>
+ <img src="https://skillicons.dev/icons?i=css,vscode,github" />
+ <br/>
+ <img src="https://skillicons.dev/icons?i=git,js,discord,postman" />
+ <br/>
+ 
+
  <img src="https://skillicons.dev/icons?i=react,bootstrap,html,css,vscode,github,git,js,discord,postman,redux,nextjs" />
 </div>
 
