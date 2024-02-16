@@ -2,7 +2,7 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=Protest+Riot&size=36&duration=2000&pause=1000&color=F7A722&center=true&vCenter=true&random=false&width=500&height=70&lines=Hi+There+%F0%9F%91%8B;I'm+Ali+ihsan+Ertugrul" alt="Typing SVG" />
 </h1>
 
- <p align="center"><em>A passionate <strong><font color="red">Frontend Developer</font></strong> from Turkey</em></p>
+ <h3 align="center"><em>A passionate <strong><font color="red">Frontend Developer</font></strong> from Turkey</em></h3>
 
 
 
