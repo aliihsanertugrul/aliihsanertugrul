@@ -1,14 +1,16 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=aliihsanertugrul.aliihsanertugrul" />
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Ali ihsan+Ertugrul!;" />
+<!--     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Ali ihsan+Ertugrul!;" /> -->
+    <img src="https://readme-typing-svg.herokuapp.com?font=Protest+Riot&duration=2000&pause=1000&color=F7A722&center=true&vCenter=true&random=false&width=435&lines=Hi+There+%F0%9F%91%8B;I'm+Ali+ihsan+Ertugrul" alt="Typing SVG" />
 </h1>
 
-<h3 align="center">A passionate software developer from Turkey 🇨🇦</h3>
+<h3 align="center">A passionate software developer from Turkey</h3>
 
 <br/>
 
 <div align="center">
+    
  👀 I’m interested in **Frontend Technologies**
   
 🌱 I’m currently learning **React.js and Next.js**
@@ -17,7 +19,7 @@
 
 📫 How to reach me **ertugrulali3538@gmail.com**
 
-💬 Ask me about **Next.js, React.js, Redux, Bootstrap... or anything [here](https://github.com/aliihsanertugrul/aliihsanertugrul/issues)**
+💬 Ask me about **Next.js, React.js, Redux, Bootstrap... or anything **
 
 
 
