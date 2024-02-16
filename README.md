@@ -56,8 +56,7 @@
 
 <br/>
 <hr/>
- <img width=325 align="center" src="https://github-readme-stats-aliihsanertugrul.vercel.app/api/top-langs/?username=aliihsanertugrul&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aliihsanertugrul&layout=compact)](https://github.com/aliihsanertugrul/github-readme-stats)
+ 
 
 
 
