@@ -56,6 +56,7 @@
 
 <br/>
 <hr/>
+[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=aliihsanertugrul)](https://github.com/aliihsanertugrul/github-readme-stats)
 
 
 
