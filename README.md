@@ -1,5 +1,3 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=aliihsanertugrul.aliihsanertugrul" />
-
 <h1 align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=Protest+Riot&size=36&duration=2000&pause=1000&color=F7A722&center=true&vCenter=true&random=false&width=500&height=70&lines=Hi+There+%F0%9F%91%8B;I'm+Ali+ihsan+Ertugrul" alt="Typing SVG" />
 </h1>
@@ -48,20 +46,9 @@
 <br/>
 <hr/>
 
-<h2 align="center">⚡ Stats ⚡</h2>
-<br>
-<div align=center>
-  <img width=390 src="https://github-readme-streak-stats-aliihsanertugrul.vercel.app/?user=aliihsanertugrul&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
-  <img width=390 src="https://github-readme-stats-aliihsanertugrul.vercel.app/api?username=aliihsanertugrul&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
-  <br/>
-  <img width=325 align="center" src="https://github-readme-stats.vercel.app/api?username=aliihsanertugrul&show_icons=true&theme=radical" alt="top langs" />
-</div>
 
-<br/><br/>
 
-<hr/>
 
-<br/>
 
 
 
