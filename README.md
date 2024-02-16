@@ -40,7 +40,8 @@
 <h2 align="center">⭐ My Skills ⭐</h2>
 
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=nextjs" />
+ <a href="https://linkedin.com/in/ali-ihsan-ertugrul" target="_blank">
+     <img src="https://skillicons.dev/icons?i=nextjs" />
  <br/>
     <img src="https://skillicons.dev/icons?i=react,javascript" />
  <br/>
@@ -48,6 +49,8 @@
  <br/>
  <img src="https://skillicons.dev/icons?i=git,redux,discord,postman" />
  <br/>
+  </a>
+   
 
 </div>
 
