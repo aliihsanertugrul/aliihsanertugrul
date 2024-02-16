@@ -40,8 +40,9 @@
 <h2 align="center">⚒️ My Skills ⚒️</h2>
 
 <div align="center">
+    <img src="https://skillicons.dev/icons?i=react" />
     <img src="https://skillicons.dev/icons?i=react,bootstrap,html,css,vscode,github,git,js,discord,postman,redux,nextjs" />
-<!--     <img src="https://skillicons.dev/icons?i=javascript,express,firebase,mongodb,c,java,nextjs,mysql,flask" /><br> -->
+ <img src="https://skillicons.dev/icons?i=react,bootstrap,html,css,vscode,github,git,js,discord,postman,redux,nextjs" />
 </div>
 
 <br/>
