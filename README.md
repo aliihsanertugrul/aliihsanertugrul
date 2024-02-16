@@ -37,20 +37,18 @@
 
  <hr/>
  
-<h2 align="center">⚒️ My Skills ⚒️</h2>
+<h2 align="center">⭐ My Skills ⭐</h2>
 
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=react" />
+    <img src="https://skillicons.dev/icons?i=next.js" />
  <br/>
-    <img src="https://skillicons.dev/icons?i=bootstrap,html" />
+    <img src="https://skillicons.dev/icons?i=react,js" />
  <br/>
- <img src="https://skillicons.dev/icons?i=css,vscode,github" />
+ <img src="https://skillicons.dev/icons?i=html,css,bootstrap" />
  <br/>
- <img src="https://skillicons.dev/icons?i=git,js,discord,postman" />
+ <img src="https://skillicons.dev/icons?i=git,redux,discord,postman" />
  <br/>
- 
 
- <img src="https://skillicons.dev/icons?i=react,bootstrap,html,css,vscode,github,git,js,discord,postman,redux,nextjs" />
 </div>
 
 <br/>
