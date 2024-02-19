@@ -34,14 +34,16 @@
      <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" />
   </a> -->
 </div>
+<br/>
+<br/>
 
 <div align="center"> 
 
-| Başlık 1   | Başlık 2   | Başlık 3   |
+| Project Name   | Tools  | Sites  |
 |------------|------------|------------|
-| Hücre 1-1  | Hücre 1-2  | Hücre 1-3  |
-| Hücre 2-1  | Hücre 2-2  | Hücre 2-3  |
-| Hücre 3-1  | Hücre 3-2  | Hücre 3-3  |
+| A&E Films  | Next.js | https://ae-films.vercel.app |
+| TeachClouds  | Next.js  | https://teachclouds.com  |
+| EFEF Luxury Travel  | React.js  | Coming soon.. |
 
 </div>
 
