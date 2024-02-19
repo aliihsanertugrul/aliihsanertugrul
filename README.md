@@ -35,7 +35,7 @@
   </a> -->
 </div>
 
-<center>
+<div align="center"> 
 
 | Başlık 1   | Başlık 2   | Başlık 3   |
 |------------|------------|------------|
@@ -43,7 +43,7 @@
 | Hücre 2-1  | Hücre 2-2  | Hücre 2-3  |
 | Hücre 3-1  | Hücre 3-2  | Hücre 3-3  |
 
-</center>
+</div>
 
 
 
