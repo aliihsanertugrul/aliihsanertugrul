@@ -35,6 +35,13 @@
   </a> -->
 </div>
 
+| Başlık 1   | Başlık 2   | Başlık 3   |
+|------------|------------|------------|
+| Hücre 1-1  | Hücre 1-2  | Hücre 1-3  |
+| Hücre 2-1  | Hücre 2-2  | Hücre 2-3  |
+| Hücre 3-1  | Hücre 3-2  | Hücre 3-3  |
+
+
  <hr/>
  
 <h2 align="center">⭐ My Skills ⭐</h2>
