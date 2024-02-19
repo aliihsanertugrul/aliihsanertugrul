@@ -40,14 +40,6 @@
 
 
 <div align="center">
-<style>
-table {
-    font-size: 1.2em; /* Table font size */
-}
-th, td {
-    padding: 10px; /* Cell padding */
-}
-</style>
 
 | Project Name        | Tools      | Sites                         |
 |---------------------|------------|-------------------------------|
@@ -57,6 +49,7 @@ th, td {
 | Your Imaginer       | Next.js    | Coming soon..                  |
 
 </div>
+
 
 
 
