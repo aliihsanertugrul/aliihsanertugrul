@@ -37,15 +37,21 @@
 <br/>
 <br/>
 
-<div align="center"> 
 
-| Project Name   | Tools  | Sites  |
-|------------|------------|------------|
-| A&E Films  | Next.js | https://ae-films.vercel.app |
-| TeachClouds  | Next.js  | https://teachclouds.com  |
-| EFEF Luxury Travel  | React.js  | Coming soon.. |
+
+<div align="center">
+
+| Project Name        | Tools      | Sites                         |
+|---------------------|------------|-------------------------------|
+| A&E Films           | Next.js    | [A&E Films](https://ae-films.vercel.app) |
+| TeachClouds         | Next.js    | [TeachClouds](https://teachclouds.com)   |
+| EFEF Luxury Travel  | React.js   | Coming soon..                  |
+| Your Imaginer       | Next.js    | Coming soon..                  |
 
 </div>
+
+
+
 
 
 
