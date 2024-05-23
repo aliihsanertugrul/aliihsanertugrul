@@ -11,7 +11,7 @@
     
  👀 I’m interested in **Frontend Technologies**,
   
-🌱 I’m currently learning **React.js and Next.js**,
+🌱 I’m currently learning **TypeScript**,
 
 💞️ I’m looking to **collaborate**,
 
